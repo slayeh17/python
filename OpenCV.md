@@ -1,4 +1,5 @@
 ##OpenCV in Python
+
 ###Insert and view images using OpenCV
 
 Here is a little code to insert and view an image:
