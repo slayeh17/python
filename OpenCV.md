@@ -1,6 +1,6 @@
-##OpenCV in Python
+## OpenCV in Python
 
-###Insert and view images using OpenCV
+### Insert and view images using OpenCV
 
 Here is a little code to insert and view an image:
 ```import cv2 as cv
